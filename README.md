@@ -61,4 +61,3 @@ The CNN model consists of **4 convolutional layers**, each followed by **ReLU ac
 - Implement real-time emotion analysis with graphical insights.  
 
 📌 **Author:** Y Saivardhan  
-📌 **License:** MIT  
